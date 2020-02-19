@@ -3,11 +3,27 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n";
+    //Input
+    int n;
+    cin >> n;
+    //Process
+    int count = 0;
+    while (n!=1)
+    {
+        if (n % 2 == 0)  // if is not odd
+        {
+            n /= 2;
+        }
+        else
+        {
+            n = (3 * n + 1) / 2;
+        }
+        count++;
+    }
+    cout << count;
 }
-
-// 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
-// 调试程序: F5 或调试 >“开始调试”菜单
 
