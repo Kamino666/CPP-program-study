@@ -1,0 +1,4 @@
+﻿  1014.cpp
+G:\CPP-program-study\PAT (Basic Level) Practice\1014\1014.cpp(18,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\CPP-program-study\PAT (Basic Level) Practice\1014\1014.cpp(51,20): warning C4018: “<”: 有符号/无符号不匹配
+  1014.vcxproj -> G:\CPP-program-study\PAT (Basic Level) Practice\1008-1015\Debug\1014.exe
