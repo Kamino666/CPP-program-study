@@ -1,0 +1,4 @@
+﻿  P02.cpp
+G:\CPP-program-study\PTA-MOOC\P02\P02.cpp(49,20): warning C4018: “<”: 有符号/无符号不匹配
+G:\CPP-program-study\PTA-MOOC\P02\P02.cpp(65,20): warning C4018: “<”: 有符号/无符号不匹配
+  P02.vcxproj -> G:\CPP-program-study\PTA-MOOC\PROGRAM\Debug\P02.exe

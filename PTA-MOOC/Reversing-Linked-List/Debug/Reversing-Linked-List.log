@@ -1,0 +1,4 @@
+﻿  Reversing-Linked-List.cpp
+G:\CPP-program-study\PTA-MOOC\Reversing-Linked-List\Reversing-Linked-List.cpp(60,38): warning C4018: “<=”: 有符号/无符号不匹配
+G:\CPP-program-study\PTA-MOOC\Reversing-Linked-List\Reversing-Linked-List.cpp(76,20): warning C4018: “<”: 有符号/无符号不匹配
+  Reversing-Linked-List.vcxproj -> G:\CPP-program-study\PTA-MOOC\PROGRAM\Debug\Reversing-Linked-List.exe
